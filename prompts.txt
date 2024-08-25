@@ -1,0 +1,8 @@
+Reports:
+Input: 
+Here is the content of the blog/article: [Insert content here]
+
+Prompt:
+Please analyze the following blog/article content and generate a concise and effective report. Focus on summarizing the key points, insights, and main arguments presented. Exclude any extraneous information, such as hyperlinks, advertisements, unrelated sections, or promotional content. Ensure the report is well-organized, clear, and captures the essence of the original content without any unnecessary details.
+
+Generate an informational report based on the content provided from the blog or article. The report should be concise and focus solely on summarizing the key points and main ideas. Remove any extraneous content such as links, advertisements, or unrelated text. The report should be structured with clear headings and bullet points where appropriate, ensuring that the information is easy to understand and relevant to the topic.
